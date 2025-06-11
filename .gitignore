@@ -14,3 +14,6 @@ composer.phar
 
 # PHPUnit cache
 .phpunit.result.cache
+
+
+git_push.sh
